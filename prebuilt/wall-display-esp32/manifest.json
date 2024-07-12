@@ -2,7 +2,7 @@
   "chipFamily": "ESP32",
   "ota": {
     "path": "wall-display-esp32/wall-display-esp32.ota.bin",
-    "md5": "69966c319073ed0d9e95c9f58910f0cc"
+    "md5": "7453a3ef0d74edd89cddc25ce709ca0c"
   },
   "parts": [
     {
